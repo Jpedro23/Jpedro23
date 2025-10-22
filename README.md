@@ -4,6 +4,8 @@
 
 ![Jpedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpedro23&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedro23&size_weight=0.5&count_weight=0.5)
+
 ## Tecnologias que eu utilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
