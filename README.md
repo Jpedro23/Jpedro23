@@ -1,5 +1,6 @@
 ### Olá eu sou João Pedro! 🖐🏼
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-mendes-de-oliveira/) Esse é o meu perfil, visitem lá
+#### Esse é o meu perfil, visitem lá
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-mendes-de-oliveira/)
 
 ![Jpedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpedro23&show_icons=true&theme=dracula)
 
